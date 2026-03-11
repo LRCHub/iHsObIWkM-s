@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Aerodynamic",
+  "base_artist": "Daft Punk",
+  "createdAt": "2026-03-11T06:31:26.943191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aerodynamic - Slum Village Remix",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/01_Aerodynamic_-_Slum_Village_Remix_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aerodynamic (Slum Village Remix)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/02_Aerodynamic_(Slum_Village_Remix)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aerodynamic (Slum Village Remix)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/03_Aerodynamic_(Slum_Village_Remix)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aerodynamic Beats / Gabrielle , Forget About the World",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/04_Aerodynamic_Beats___Gabrielle_,_Forget_About_the_World_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Time / Aerodynamic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/05_One_More_Time___Aerodynamic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Time \u0000 Aerodynamic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/06_One_More_Time_\u0000_Aerodynamic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One More Time / Aerodynamic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/07_One_More_Time___Aerodynamic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One More Time, Aerodynamic",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/08_One_More_Time,_Aerodynamic_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Time / Aerodynamic",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/09_One_More_Time___Aerodynamic_Daft_Punk.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aerodynamic (Daft Punk Remix)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_Aerodynamic_(Daft_Punk_Remix)_Daft_Punk.txt"
+    }
+  ]
+}
